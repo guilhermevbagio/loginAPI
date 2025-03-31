@@ -17,3 +17,6 @@ Envie um POST para "/auth/login" contendo um json:
 ```
 Tentativas de login com credenciais erradas ou registro duplicado exibem mensagem de erro
 
+<h2>Uso em projetos</h2>
+
+Esse repo pode ser usado como submodulo em outro projeto (funcionalidade não testada ainda)
