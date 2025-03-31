@@ -1,0 +1,7 @@
+guilhermevbagio\login\controller\AuthController.class
+guilhermevbagio\login\LoginApplication.class
+guilhermevbagio\login\repository\UserRepository.class
+guilhermevbagio\login\model\User.class
+guilhermevbagio\login\service\AuthService.class
+guilhermevbagio\login\config\SecurityConfig.class
+guilhermevbagio\login\model\Role.class
